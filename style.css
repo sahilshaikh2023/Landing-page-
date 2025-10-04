@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#box {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://static.cricbuzz.com/a/img/v1/1080x608/i1/c768339/rohit-sharma-as-captain-has-success-rate-in-multi-nation-odi-events-5-teams.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: honeydew;
+  padding: 10px;
+}
+h1 {
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 60px;
+  margin-left: 15px;
+}
+button {
+  margin-left: 330px;
+  background-color: transparent;
+  color: rgb(255, 222, 36);
+  font-size: larger;
+  font-weight: 500;
+  border: 8px;
+  text-transform: uppercase;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
